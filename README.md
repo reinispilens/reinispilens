@@ -1,5 +1,10 @@
 ### Hi there 👋
 
-My focus is on regression, classification, and timeseries modeling. I have experience working with different linear models and tree models. My proficiency in Python and SQL, as well as software such as SPSS, has enabled me to efficiently manipulate large datasets and carry out complex analyses. I am also proficient with libraries such as scikit-learn, matplotlib, pandas, numpy and many others. 
+I am a highly motivated and intellectually curious individual with a deep interest in the field of scientific computing. I am constantly seeking to expand my knowledge and understanding of this complex field. My solid background in econometrics and analytical economics provides me with a unique perspective and approach to problem solving. I am not satisfied with the status quo and am always exploring new possibilities and methods to improve my understanding and expertise.
 
-You can find some of my work on my GitHub portfolio repositories, where I have shared some of my projects and analysis, feel free to check them out and give me feedback.
+My portfolio repositories showcase some of my work, including various projects and analysis. I welcome you to peruse through these and provide me with feedback.
+
+Current Kaggle rankings:
+* Titanic clasification - top 3%
+* Ames housing regression - top 9%
+
